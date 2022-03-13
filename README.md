@@ -1,1 +1,1 @@
-<a href = "https://www.google.com">![Twitch Status](https://img.shields.io/linkedin)</a>
+![GitHub followers](https://img.shields.io/github/followers/teachy7789?style=social)
