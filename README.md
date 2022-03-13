@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am teachy
+### Hola a todos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy teachy
 
 <!--
 **teachy7789/teachy7789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
